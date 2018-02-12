@@ -1,4 +1,4 @@
-delta
+# delta
 
 Programa em C++ que solicita do usuário 3 numeros reais quaisquer. O programa calcula e imprime o valor de delta.
 Se delta < 0 : Imprime "Não existem raizes reais"
